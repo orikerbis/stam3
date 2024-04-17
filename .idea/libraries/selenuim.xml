@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="selenuim">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../selenuim" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../selenuim" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../selenuim" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../selenuim" recursive="false" type="SOURCES" />
+  </library>
+</component>
